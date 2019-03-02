@@ -1,0 +1,19 @@
+{
+  "name": "elm-svg-webpack-plugin",
+  "version": "0.0.1",
+  "description": "webpack plugin to convert svg assets to elm",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BreadBlog/elm-svg-webpack-plugin.git"
+  },
+  "author": "Parasrah",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BreadBlog/elm-svg-webpack-plugin/issues"
+  },
+  "homepage": "https://github.com/BreadBlog/elm-svg-webpack-plugin#readme"
+}
